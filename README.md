@@ -1,4 +1,4 @@
-# service-notification
+# Service Notification
 
 Serviço de notificação por e-mail do projeto [microservices-demo](https://github.com/Lucas-319/microservices-demo). Recebe solicitações do [service-task](https://github.com/Lucas-319/service-task) e envia e-mails via JavaMail para o Mailhog (SMTP).
 
